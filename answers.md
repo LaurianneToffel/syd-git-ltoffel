@@ -23,5 +23,16 @@ Avec un fork le repertoire est copié dans un nouveau repertoire. Non le répert
 ## Gitgraph
 
 ### Task 7
+1. Branche
+2. hash
+3. commit messafe
+4. Auteur
+5. Tag
+6. Commit correspondant à la fusion sur develop
+7. Branche secondaire
+8. Création de la branche feature-auth, merge de main et develop
+9. Historique des commits sur la branche develop
+10. Historique des commits sur la branche main 
+
 
 ![Gitgraph](img/gitgraph.svg)
